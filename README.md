@@ -32,5 +32,3 @@ Trattando previsioni legate alla gestione dell'insulina nel diabete di tipo 1, d
 
 ## Struttura del Repository
 Il repository è organizzato separando documentazione e codice per mantenere chiara la struttura del progetto.
-
-```
